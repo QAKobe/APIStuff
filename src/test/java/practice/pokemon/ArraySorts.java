@@ -8,7 +8,7 @@ public class ArraySorts {
     public static void main(String[] args) {
 
 
-        int nums [] = {7,6,4,3,2,1};
+        int nums [] = {7,6,6,4,3,2,1};
 
         for (int i = 0; i < nums.length; i++) {
 
@@ -29,7 +29,6 @@ public class ArraySorts {
         }
 
         System.out.println(Arrays.toString(nums));
-
 
     }
 
